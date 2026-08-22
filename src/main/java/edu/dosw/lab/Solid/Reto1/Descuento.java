@@ -2,5 +2,9 @@ package edu.dosw.lab.Solid.Reto1;
 
 public interface Descuento {
 
-    public void applyDiscount();
+    double getPorcentajeDescuento();
+
+    default double calcularDescuento(double subtotal) {
+        return subtotal * getPorcentajeDescuento();
+    }
 }

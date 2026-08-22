@@ -1,16 +1,12 @@
 // Application.java
-package edu.dosw.lab; 
+package edu.dosw.lab;
 
-public class Application { 
+import edu.dosw.lab.Solid.Reto1.Reto1;
 
-    public static void main(String[] args) { 
+public class Application {
 
-        System.out.println( 
-
-            "Proyecto Maven configurado y corriendo correctamente" 
-
-        ); 
-
-    } 
+    public static void main(String[] args) {
+        Reto1.ejecutar();
+    }
 
 }
