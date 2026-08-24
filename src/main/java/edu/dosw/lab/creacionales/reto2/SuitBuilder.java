@@ -1,7 +1,5 @@
 package edu.dosw.lab.creacionales.reto2;
 
-import ch.qos.logback.core.encoder.EchoEncoder;
-
 import java.util.ArrayList;
 import java.util.List;
 
