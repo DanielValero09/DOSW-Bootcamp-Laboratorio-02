@@ -3,6 +3,7 @@ package edu.dosw.lab;
 
 import edu.dosw.lab.Solid.Reto1.Reto1;
 import edu.dosw.lab.comportamiento.reto4.Reto4;
+import edu.dosw.lab.comportamiento.reto6.Reto6;
 import edu.dosw.lab.comportamiento.reto7.Reto7;
 import edu.dosw.lab.creacionales.reto2.Reto2;
 import edu.dosw.lab.creacionales.reto3.Reto3;
@@ -18,6 +19,7 @@ public class Application {
         Reto5.ejecutar();
 
         Reto7.ejecutar();
+        Reto6.ejecutar();
     }
 
 }
