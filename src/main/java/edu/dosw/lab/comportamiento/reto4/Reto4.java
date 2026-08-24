@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-public class MarketPlace {
+public class Reto4 {
     public record ConversionRequest(Weighing source, String targetUnit) {}
 
-    public static void main(String[] args) {
+    public static void ejecutar() {
         Scanner scanner = new Scanner(System.in);
         WeightConverter converter = new WeightConverter();
 

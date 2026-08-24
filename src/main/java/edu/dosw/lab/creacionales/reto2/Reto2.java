@@ -2,8 +2,8 @@ package edu.dosw.lab.creacionales.reto2;
 
 import java.util.Scanner;
 
-public class Client {
-    public static void main(String[] args) {
+public class Reto2 {
+    public static void ejecutar() {
         Scanner scanner = new Scanner(System.in);
 
         // Inyectamos nuestro Builder concreto al Director
