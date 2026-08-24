@@ -4,7 +4,7 @@
 
 Sistema de pedidos para Armonia Andina. Permite crear una cantidad variable de instrumentos seleccionando familia, modelo y gama. Cada instrumento calcula su precio como precio base del modelo multiplicado por el factor de la gama.
 
-## Patron de diseno
+## Patron de diseño
 
 **Categoria:** Creacional
 
