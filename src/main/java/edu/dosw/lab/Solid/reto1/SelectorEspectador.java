@@ -1,4 +1,4 @@
-package edu.dosw.lab.Solid.Reto1;
+package edu.dosw.lab.Solid.reto1;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
