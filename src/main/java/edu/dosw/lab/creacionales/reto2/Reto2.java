@@ -43,8 +43,6 @@ public class Reto2 {
 
         } catch (Exception e) {
             System.out.println("Error al armar el traje: " + e.getMessage());
-        } finally {
-            scanner.close();
         }
     }
 }

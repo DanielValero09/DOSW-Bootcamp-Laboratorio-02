@@ -68,6 +68,6 @@ public class Reto4 {
         System.out.printf("Total kg equivalente: %.3f kg\n", totalKg);
         System.out.println("¡Gracias por comprar en la plaza!");
 
-        scanner.close();
+
     }
 }
