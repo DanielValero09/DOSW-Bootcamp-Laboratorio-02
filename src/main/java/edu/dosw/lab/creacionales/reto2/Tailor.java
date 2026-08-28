@@ -21,6 +21,7 @@ public class Tailor {
         pants.put("corte slim", 180000);
         pants.put("corte clásico", 160000);
         vests.put("clásico", 90000);
+        vests.put("clasico", 90000);
         linings.put("seda", 70000);
     }
 
