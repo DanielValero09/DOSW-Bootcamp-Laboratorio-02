@@ -76,7 +76,5 @@ public class Reto6 {
         System.out.println("Atendidos - Leve: " + leves + " Moderado: " + moderados + " Grave: " + graves);
         System.out.println("Remitidos a otra institucion: " + remitidos);
         System.out.println("Promedio prioridad atendidos: " + promedio);
-
-        scanner.close();
     }
 }
